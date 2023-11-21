@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mokhld
 - 👀 I’m interested in Typescript, Systems design and backend engineering!!
-- 🌱 I’m currently learning the intracies of Jestfying Integration tests across microservices!
+- 🌱 I'm dedicated to optimising system performance and scalability, ensuring our microservices architecture meets demanding efficiency and reliability standards.
 - 💞️ I’m looking to collaborate on anything worthwhile!
 - 📫 Email me: emailmokhld[@]gmail.com
 
