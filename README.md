@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @mokhld
-- 👀 I’m interested in Typescript, Systems design and backend engineering!!
-- 🌱 I'm dedicated to optimising system performance and scalability, ensuring our microservices architecture meets demanding efficiency and reliability standards.
-- 💞️ I’m looking to collaborate on anything worthwhile!
-- 📫 Email me: emailmokhld[@]gmail.com
+# Hi 👋
 
-<!---
-mokhld/mokhld is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Principal Software Engineer** · Systems, libraries, open source · Python, TypeScript, Rust
+
+I build systems and libraries and contribute to open source. Recent work: LLM evaluation and classification, re-identification risk scoring, behaviour rules from traces, and tooling in Rust.
+
+## Projects
+
+- ⚖️ **[llm-jury](https://github.com/[your-org]/llm-jury)** — Confidence-based escalation to a jury of LLM personas; verdict and audit trail. Python & TypeScript SDK.
+- 📊 **[reid-score](https://github.com/[your-org]/reid-score)** — Re-identification risk scoring for anonymized text; benchmarks and pluggable anonymizers.
+- 🔧 **[RuleSmith](https://github.com/[your-org]/rulesmith-langfuse)** — Learns behaviour rules from failed Langfuse traces; publishes to Prompt Management. (WIP)
+- 📐 **[perturbeval](https://github.com/[your-org]/perturbeval)** — LLM consistency under input perturbation.
+- 🧮 **[turbo-ckf](https://github.com/[your-org]/turbo-ckf)** — Rust-backed Cubature Kalman Filter (KCKF AHRS).
+
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/mokhld) · [GitHub](https://github.com/mokhld)
